@@ -6,6 +6,12 @@ Mushrooming with creative works by **LSM3259 (Fungal Biology)** students, this e
 
 ---
 
+**Programme Owner**  
+Mak Jie Ying
+
 **Presented by**  
-**Dr. Amy Choong**  
+Dr. Amy Choong  
 Department of Biological Sciences
+
+**Scanned by**  
+Eugene Chen
