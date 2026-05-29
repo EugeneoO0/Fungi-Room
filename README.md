@@ -1,6 +1,6 @@
 # Fun(gi) Exhibition
 
-**20 April – 5 June**
+**20 April – 5 June 2026**
 
 Mushrooming with creative works by **LSM3259 (Fungal Biology)** students, this exhibition focuses on the fascinating world of fungi, offering educational value that caters to the general audience.
 
