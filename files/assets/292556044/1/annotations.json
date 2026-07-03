@@ -1,13 +1,652 @@
 [
   {
-    "id": "start-view",
-    "title": "Start View",
-    "description": "Opening view of the Fun(gi) Room.",
-
-    "position": [0, 1.6, 3],
-    "target": [0, 1.5, 0],
+    "id": "chiamjiayujasmine",
+    "title": "Amanita muscaria Growth Stages",
+    "description": "A recycled paper display explains the cap development of Amanita muscaria, also known as Fly Agaric. The project uses simple language and accessible visuals to introduce this recognisable fungus and make fungal growth stages easier for general audiences to understand.",
+    "position": [
+      -1.948,
+      1.59,
+      -4.866
+    ],
+    "target": [
+      -4.401,
+      -1.66,
+      -1.983
+    ],
     "fov": 70,
-
-    "hotspot": [0, 1.5, 0]
+    "hotspot": [
+      -2.151,
+      1.146,
+      -4.498
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/chiamjiayujasmine.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "ethanwongikhun",
+    "title": "Mycena chlorophos Bioluminescent Mushroom Model",
+    "description": "A paper mache model of Mycena chlorophos highlights one of Singapore’s bioluminescent fungi. Fluorescent paint and gill details explain its night-time glow, decomposing wood habitat, identification challenges, and possible chemical basis for green bioluminescence.",
+    "position": [
+      -1.649,
+      1.59,
+      -4.431
+    ],
+    "target": [
+      -3.771,
+      -2.13,
+      -1.899
+    ],
+    "fov": 75,
+    "hotspot": [
+      -1.861,
+      1.139,
+      -4.214
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/ethanwongikhun.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "megannim",
+    "title": "Colourful Mushrooms Embroidery",
+    "description": "An embroidered collection of six colourful mushrooms shows that fungi can be vivid and varied like flowers. It introduces Amanita muscaria, Pycnoporus, Marasmius, Gliophorus, Entoloma, and Coniolepiota through colour-themed examples and concise fun facts.",
+    "position": [
+      -1.408,
+      1.59,
+      -4.052
+    ],
+    "target": [
+      -3.104,
+      -2.798,
+      -2.198
+    ],
+    "fov": 75,
+    "hotspot": [
+      -1.538,
+      1.133,
+      -3.963
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/megannim.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "chloeangszeyun",
+    "title": "Crocheted Stropharia caerulea Model",
+    "description": "A crocheted Blue Roundhead mushroom model presents key Basidiomycota features in three dimensions. Its blue cap, gills, stipe, veil, and volva help viewers examine fungal anatomy from multiple angles, similar to observing a real specimen.",
+    "position": [
+      -1.117,
+      1.59,
+      -3.708
+    ],
+    "target": [
+      -2.401,
+      -3.009,
+      -2.115
+    ],
+    "fov": 75,
+    "hotspot": [
+      -1.251,
+      1.11,
+      -3.665
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/chloeangszeyun.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "kimyeoeun",
+    "title": "Models of Mushrooms of the Earth",
+    "description": "Colourful dough models depict Rhodotus palmatus, Lactarius indigo, and Omphalotus olearius to show global Basidiomycota diversity. Labels highlight colour, substrate, gills, latex, bioluminescence, toxicity, and growth patterns, helping viewers compare distinctive fungal traits visually.",
+    "position": [
+      -2.076,
+      1.59,
+      -2.986
+    ],
+    "target": [
+      -0.159,
+      -2.537,
+      -5.059
+    ],
+    "fov": 75,
+    "hotspot": [
+      -1.766,
+      1.145,
+      -3.083
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/kimyeoeun.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "hoganmckennarose",
+    "title": "Fungal Blindness and Hidden Fungal Diversity",
+    "description": "This artwork addresses fungal blindness by showing how people often recognise only visible mushrooms while overlooking mycelium, mycorrhizae, and other hidden fungal forms. It aims to build public curiosity, awareness, and conservation support for ecologically important fungi.",
+    "position": [
+      -2.501,
+      1.59,
+      -3.242
+    ],
+    "target": [
+      -0.526,
+      -2.437,
+      -5.528
+    ],
+    "fov": 75,
+    "hotspot": [
+      -2.284,
+      1.15,
+      -3.522
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/hoganmckennarose.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "mahshaomunhayley",
+    "title": "Insect Farmers: Macrotermitinae and Termitomyces",
+    "description": "A model of underground fungal combs and above-ground Termitomyces fruiting bodies explains the mutualism between fungus-growing termites and fungi. It highlights decomposition, nutrient and carbon cycling, soil improvement, edible mushrooms, agricultural threats, and sustainable harvesting.",
+    "position": [
+      -3.088,
+      1.59,
+      -3.644
+    ],
+    "target": [
+      -0.665,
+      -1.924,
+      -6.184
+    ],
+    "fov": 70,
+    "hotspot": [
+      -2.756,
+      1.152,
+      -3.995
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/mahshaomunhayley.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "lohmayasookyan",
+    "title": "Vita Mutatur, Non Tollitur: Fungal Transformation",
+    "description": "A large illustrated poster presents fungi as agents of transformation rather than loss. Through species such as Penicillium, Cordyceps, Cryomyces, Panaeolus, and Moniliophthora, it explores medicine, parasitism, extremophile survival, psychoactivity, disease, decomposition, and ecological renewal.",
+    "position": [
+      -1.992,
+      1.754,
+      -2.88
+    ],
+    "target": [
+      2.946,
+      1.132,
+      -3.355
+    ],
+    "fov": 70,
+    "hotspot": [
+      -0.399,
+      1.994,
+      -2.946
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/lohmayasookyan.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "tanweijieeuan",
+    "title": "Basidiomycota and Basidium Paper Model",
+    "description": "A three-dimensional paper model enlarges mushroom anatomy and a microscopic basidium to explain Basidiomycota reproduction. It highlights basidia, basidiospores, gills, porous surfaces, spore release, anatomical labelling, and how physical models support public understanding of fungal structures.",
+    "position": [
+      -0.022,
+      1.508,
+      -2.077
+    ],
+    "target": [
+      2.838,
+      -2.574,
+      -1.683
+    ],
+    "fov": 75,
+    "hotspot": [
+      0.223,
+      1.152,
+      -2.074
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/tanweijieeuan.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "limxinhui",
+    "title": "Wearable Chlorophyllum molybdites Hat",
+    "description": "A wearable hat models the cap and gills of Chlorophyllum molybdites, a Singapore-native green-spored parasol. Paint, beads, and movement represent spore discharge, mature gill colour changes, airborne spores, and visible features useful for field identification.",
+    "position": [
+      1.413,
+      1.56,
+      -1.497
+    ],
+    "target": [
+      -2.141,
+      -1.717,
+      -2.229
+    ],
+    "fov": 70,
+    "hotspot": [
+      0.924,
+      1.125,
+      -1.641
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/limxinhui.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "roshachandra",
+    "title": "Truffles: The Hidden Treasure Underground",
+    "description": "This poster explains truffles as underground Ascomycota fungi that form ectomycorrhizal relationships with tree roots. It highlights the peridium, gleba, asci and ascospores, animal-mediated spore dispersal, and nutrient exchange between fungi and host trees.",
+    "position": [
+      0.89,
+      1.56,
+      -1.037
+    ],
+    "target": [
+      -0.535,
+      -3.179,
+      -1.194
+    ],
+    "fov": 75,
+    "hotspot": [
+      0.784,
+      1.156,
+      -1.082
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/roshachandra.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "vinnyongsiting",
+    "title": "Filoboletus manipularis Clay Bioluminescence Model",
+    "description": "A handmade clay model presents Filoboletus manipularis growing on decayed wood inside a dark box. Glow-in-the-dark paint demonstrates green bioluminescence, while varied forms and sculpted pores explain morphology, ecological significance, and unresolved questions about fungal light emission.",
+    "position": [
+      1.254,
+      1.274,
+      -0.465
+    ],
+    "target": [
+      -3.586,
+      0.351,
+      -1.315
+    ],
+    "fov": 70,
+    "hotspot": [
+      0.708,
+      1.154,
+      -0.581
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/vinnyongsiting.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "chuajingwenrachel",
+    "title": "Fairy Inkcap: Coprinellus disseminatus",
+    "description": "A paper mache artwork depicts Fairy Inkcap mushrooms growing on soil, fallen wood, and dead branches. It explains their clustered growth, saprophytic lifestyle, changing cap shape, non-deliquescent maturity, possible orchid mycorrhizal role, and antioxidant compounds.",
+    "position": [
+      -0.395,
+      1.505,
+      -0.766
+    ],
+    "target": [
+      3.208,
+      -1.874,
+      0.004
+    ],
+    "fov": 70,
+    "hotspot": [
+      -0.082,
+      1.16,
+      -0.676
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/chuajingwenrachel.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "chenjingfei",
+    "title": "Mycoprotein Nuggets",
+    "description": "A familiar fast-food nugget form is reimagined to introduce fungi as a sustainable protein source. The model highlights Fusarium venenatum and Aspergillus oryzae, showing that fungi can become food ingredients beyond the usual mushroom image.",
+    "position": [
+      -0.251,
+      1.56,
+      -1.113
+    ],
+    "target": [
+      2.578,
+      -2.527,
+      -0.577
+    ],
+    "fov": 70,
+    "hotspot": [
+      -0.047,
+      1.123,
+      -1.013
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/chenjingfei.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "joeyhoesien",
+    "title": "Stronger Together: Mycorrhizal Relationships",
+    "description": "A model explains ectomycorrhizal and arbuscular mycorrhizal relationships, showing how fungi support plant nutrient uptake, stress resistance, phytoremediation, and carbon storage. It connects underground mycelium with visible Amanita fruiting bodies and forest ecosystem resilience.",
+    "position": [
+      -0.141,
+      1.56,
+      -1.623
+    ],
+    "target": [
+      2.739,
+      -2.468,
+      -1.129
+    ],
+    "fov": 75,
+    "hotspot": [
+      0.108,
+      1.171,
+      -1.67
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/joeyhoesien.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "waynetanweien",
+    "title": "Basidiomycota and Ascomycota Spore Structures",
+    "description": "A handmade model compares sexual spore-producing structures in Basidiomycota and Ascomycota. Enlarged basidia and asci show external basidiospores versus internal ascospores, while examples of gills, teeth, pores, apothecia, perithecia, and cleistothecia show structural diversity.",
+    "position": [
+      -1.081,
+      1.704,
+      0.121
+    ],
+    "target": [
+      1.58,
+      -2.139,
+      1.896
+    ],
+    "fov": 70,
+    "hotspot": [
+      -0.838,
+      1.403,
+      0.134
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/waynetanweien.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "darrenyeo",
+    "title": "Wearable Amanita Cap and Basidiomycota Flashcards",
+    "description": "A wearable Amanita-inspired cap uses detachable gill flashcards to introduce eight Basidiomycota mushrooms. The project combines recycled materials, identification notes, and fun facts to spark curiosity about mushroom diversity, aesthetics, edibility, and fungal taxonomy.",
+    "position": [
+      0.15,
+      1.62,
+      1.154
+    ],
+    "target": [
+      -3.715,
+      0.182,
+      -1.674
+    ],
+    "fov": 75,
+    "hotspot": [
+      -0.449,
+      1.418,
+      1.037
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/darrenyeo.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "chongjiawengermaine",
+    "title": "Singapore Forest Microhabitat Diorama",
+    "description": "A clay forest diorama centred on a decaying stump showcases Singapore saprobic and mycoparasitic macrofungi with unusual forms. It addresses fungi blindness by presenting puffballs, stinkhorns, bird’s nest fungi, earthstars, and other overlooked ecological decomposers.",
+    "position": [
+      -0.309,
+      1.734,
+      1.517
+    ],
+    "target": [
+      -3.422,
+      -1.625,
+      -0.488
+    ],
+    "fov": 75,
+    "hotspot": [
+      -0.716,
+      1.422,
+      1.41
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/chongjiawengermaine.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "pangsihuirachel",
+    "title": "Mushroom Collectible Cards",
+    "description": "Fantasy-style collectible cards introduce six fungi with harmful or beneficial effects, including Death Cap, Fly Agaric, Magic Mushroom, Reishi, Baker’s Yeast, and Cyclosporin-producing fungi. The cards combine character design with concise scientific and practical information.",
+    "position": [
+      -0.764,
+      1.62,
+      1.955
+    ],
+    "target": [
+      -4.247,
+      -1.239,
+      -0.215
+    ],
+    "fov": 75,
+    "hotspot": [
+      -0.994,
+      1.366,
+      1.706
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/pangsihuirachel.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "phangkaiqian",
+    "title": "LEGO Filoboletus manipularis Bioluminescence Model",
+    "description": "A LEGO landscape model teaches fungal bioluminescence using Filoboletus manipularis, a Singapore species found on decaying wood. It explains identification through honeycomb-like pores, growth stages, green night-time glow, circadian rhythm, and possible insect-assisted spore dispersal.",
+    "position": [
+      -1.868,
+      1.802,
+      0.906
+    ],
+    "target": [
+      1.687,
+      -1.065,
+      2.942
+    ],
+    "fov": 75,
+    "hotspot": [
+      -1.489,
+      1.419,
+      1.176
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/phangkaiqian.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "joantantingli",
+    "title": "Fungi in Singapore",
+    "description": "This exhibit introduces fungi commonly encountered in Singapore through realistic clay models and an accompanying book. It tackles fungi blindness by combining morphology, habitat context, identification tips, fun facts, and relatable cultivated mushrooms for public learning.",
+    "position": [
+      -1.443,
+      2.122,
+      0.618
+    ],
+    "target": [
+      0.683,
+      -2.142,
+      2.137
+    ],
+    "fov": 70,
+    "hotspot": [
+      -1.275,
+      1.407,
+      0.826
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/joantantingli.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "sewwensi",
+    "title": "Exploring Ascomycota and Basidiomycota",
+    "description": "A self-exploratory activity uses clay models of fourteen fungi to compare Ascomycota and Basidiomycota. Participants classify specimens, learn reproductive structures, recognise Singapore and edible species, and appreciate diverse ecological roles including decomposition, symbiosis, parasitism, and dispersal.",
+    "position": [
+      -2.6,
+      1.867,
+      1.044
+    ],
+    "target": [
+      -3.638,
+      -2.388,
+      3.456
+    ],
+    "fov": 70,
+    "hotspot": [
+      -2.716,
+      1.12,
+      1.276
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/sewwensi.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "chaeyeongin",
+    "title": "Spore Smugglers: Inspection of the Queen Ant",
+    "description": "A serious bluffing and negotiation board game where players act as fungi merchants moving species past a Queen Ant inspector. The game teaches fungal taxonomy, ant-fungus mutualism, parasitism, commensal interactions, and spore dispersal through competitive gameplay.",
+    "position": [
+      -3.034,
+      1.45,
+      1.286
+    ],
+    "target": [
+      -3.802,
+      -3.215,
+      3.005
+    ],
+    "fov": 75,
+    "hotspot": [
+      -3.123,
+      1.16,
+      1.335
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/chaeyeongin.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "elijahtaingjunwei",
+    "title": "Myco-Mysteries Capsule Machine",
+    "description": "An interactive capsule machine dispenses small fungal species models with information slips and reference QR codes. Featuring Amanita muscaria, Cookeina tricholoma, Cyathus striatus, Sphaerobolus stellatus, and Xylaria polymorpha, it encourages playful discovery and retention of fungal knowledge.",
+    "position": [
+      -3.333,
+      1.496,
+      0.684
+    ],
+    "target": [
+      -4.812,
+      -2.279,
+      3.611
+    ],
+    "fov": 75,
+    "hotspot": [
+      -3.522,
+      1.157,
+      0.936
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/elijahtaingjunwei.pdf",
+      "title": "Click to view more details"
+    }
+  },
+  {
+    "id": "riyasrikanth",
+    "title": "Cordyceps and Parasitic Host Manipulation",
+    "description": "A three-dimensional Cordyceps model shows an infected ant with fungal growth emerging from its body. It introduces entomopathogenic fungi, host manipulation, summit disease, spore dispersal, parasitism, insect population control, and the broader scientific value of these interactions.",
+    "position": [
+      -3.725,
+      1.45,
+      0.672
+    ],
+    "target": [
+      -4.842,
+      -2.903,
+      2.84
+    ],
+    "fov": 75,
+    "hotspot": [
+      -3.771,
+      1.161,
+      0.825
+    ],
+    "media": {
+      "type": "pdf",
+      "url": "https://raw.githubusercontent.com/EugeneoO0/Fungi-Room/main/PDF/riyasrikanth.pdf",
+      "title": "Click to view more details"
+    }
   }
 ]
